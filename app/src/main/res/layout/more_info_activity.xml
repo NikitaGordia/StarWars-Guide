@@ -30,9 +30,10 @@
 
             <TextView
                 android:id="@+id/info"
+                android:paddingLeft="25dp"
+                android:paddingRight="25dp"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:layout_margin="20dp"
                 android:text="@string/loading"
                 android:textSize="15sp" />
 

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">StarWars Guide</string>
+    <string name="people">Characters</string>
+    <string name="planets">Planets</string>
+    <string name="films">Films</string>
+    <string name="species">Species</string>
+    <string name="vehicles">Equipment</string>
+    <string name="starships">Starships</string>
+    <string name="loading">Loading...</string>
+</resources>

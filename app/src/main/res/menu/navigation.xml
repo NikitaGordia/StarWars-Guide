@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/people_pack"
+        android:title="@string/people"
+        android:icon="@drawable/darth"
+        />
+
+    <item
+        android:id="@+id/planets_pack"
+        android:title="@string/planets"
+        android:icon="@drawable/ic_planets"
+        />
+
+    <item
+        android:id="@+id/films_pack"
+        android:title="@string/films"
+        android:icon="@drawable/ic_films"
+        />
+
+    <item
+        android:id="@+id/species_pack"
+        android:title="@string/species"
+        android:icon="@drawable/ic_species"
+        />
+
+    <item
+        android:id="@+id/vehicles_pack"
+        android:title="@string/vehicles"
+        android:icon="@drawable/ic_vehicles"
+        />
+</menu>

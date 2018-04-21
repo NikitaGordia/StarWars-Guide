@@ -1,8 +1,18 @@
-# StarWars-Guide
-Android app. Using API: https://swapi.co/
+<h1 align="center"><b>StarWars-Guide</b></h1>
+<h3 align="center">Android list-details app. Used API: https://swapi.co/</h3>
 
-<img src="Screenshots/1.png" width="30%" height="30%"/>
+<p align="center"><img src="github/set.png"/></p>
 
-<img src="Screenshots/2.png" width="30%" height="30%"/>
+## Description
 
-<img src="Screenshots/3.png" width="30%" height="30%"/>
+It's something like reference book of StarWars world, represented by following categories :
+* Peoples
+* Planets
+* Films
+* Species
+* Vehicles
+
+
+<p align="center">
+	<img src="github/1.gif"/>
+</p>
